@@ -1,6 +1,6 @@
-## Mushroom-Chicken-Code-Template-For-ACMICPC
+## Corner Cat-Code-Template-For-ACMICPC
 
-Mushroom Chicken Code Template For ACMICPC
+**Corner Cat** Code Template For ACMICPC
 
 
 
